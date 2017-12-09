@@ -1,0 +1,10 @@
+C:\Users\devin\source\repo\NuggetBookStore\bin\Debug\netcoreapp2.0\NuggetBookStore.deps.json
+C:\Users\devin\source\repo\NuggetBookStore\bin\Debug\netcoreapp2.0\NuggetBookStore.runtimeconfig.json
+C:\Users\devin\source\repo\NuggetBookStore\bin\Debug\netcoreapp2.0\NuggetBookStore.runtimeconfig.dev.json
+C:\Users\devin\source\repo\NuggetBookStore\bin\Debug\netcoreapp2.0\NuggetBookStore.dll
+C:\Users\devin\source\repo\NuggetBookStore\bin\Debug\netcoreapp2.0\NuggetBookStore.pdb
+C:\Users\devin\source\repo\NuggetBookStore\obj\Debug\netcoreapp2.0\NuggetBookStore.csproj.CoreCompileInputs.cache
+C:\Users\devin\source\repo\NuggetBookStore\obj\Debug\netcoreapp2.0\NuggetBookStore.AssemblyInfoInputs.cache
+C:\Users\devin\source\repo\NuggetBookStore\obj\Debug\netcoreapp2.0\NuggetBookStore.AssemblyInfo.cs
+C:\Users\devin\source\repo\NuggetBookStore\obj\Debug\netcoreapp2.0\NuggetBookStore.dll
+C:\Users\devin\source\repo\NuggetBookStore\obj\Debug\netcoreapp2.0\NuggetBookStore.pdb
