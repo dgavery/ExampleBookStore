@@ -1,0 +1,10 @@
+c:\Users\devin\source\repo\DGAveryExampleBookStore\bin\Debug\netcoreapp2.0\DGAveryExampleBookStore.deps.json
+c:\Users\devin\source\repo\DGAveryExampleBookStore\bin\Debug\netcoreapp2.0\DGAveryExampleBookStore.runtimeconfig.json
+c:\Users\devin\source\repo\DGAveryExampleBookStore\bin\Debug\netcoreapp2.0\DGAveryExampleBookStore.runtimeconfig.dev.json
+c:\Users\devin\source\repo\DGAveryExampleBookStore\bin\Debug\netcoreapp2.0\DGAveryExampleBookStore.dll
+c:\Users\devin\source\repo\DGAveryExampleBookStore\bin\Debug\netcoreapp2.0\DGAveryExampleBookStore.pdb
+c:\Users\devin\source\repo\DGAveryExampleBookStore\obj\Debug\netcoreapp2.0\DGAveryExampleBookStore.csproj.CoreCompileInputs.cache
+c:\Users\devin\source\repo\DGAveryExampleBookStore\obj\Debug\netcoreapp2.0\DGAveryExampleBookStore.AssemblyInfoInputs.cache
+c:\Users\devin\source\repo\DGAveryExampleBookStore\obj\Debug\netcoreapp2.0\DGAveryExampleBookStore.AssemblyInfo.cs
+c:\Users\devin\source\repo\DGAveryExampleBookStore\obj\Debug\netcoreapp2.0\DGAveryExampleBookStore.dll
+c:\Users\devin\source\repo\DGAveryExampleBookStore\obj\Debug\netcoreapp2.0\DGAveryExampleBookStore.pdb

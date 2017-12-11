@@ -2,9 +2,9 @@
 using JsonApiDotNetCore.Controllers;
 using JsonApiDotNetCore.Services;
 using Microsoft.Extensions.Logging;
-using NuggetBookStore.Models;
+using ExampleBookStore.Models;
 
-namespace NuggetBookStore.Controllers
+namespace ExampleBookStore.Controllers
 {
     public class AuthorsController : JsonApiController<Author>
     {
@@ -15,6 +15,6 @@ namespace NuggetBookStore.Controllers
             : base(jsonApiContext, resourceService, loggerFactory)
             { }
 
-        
+
     }
 }

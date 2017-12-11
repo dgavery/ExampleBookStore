@@ -5,10 +5,10 @@ using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage;
 using Microsoft.EntityFrameworkCore.Storage.Internal;
-using NuggetBookStore.Data;
+using ExampleBookStore.Data;
 using System;
 
-namespace NuggetBookStore.Migrations
+namespace ExampleBookStore.Migrations
 {
     [DbContext(typeof(AppDbContext))]
     [Migration("20171209194343_AddBooks")]
@@ -21,7 +21,7 @@ namespace NuggetBookStore.Migrations
                 .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn)
                 .HasAnnotation("ProductVersion", "2.0.1-rtm-125");
 
-            modelBuilder.Entity("NuggetBookStore.Models.Author", b =>
+            modelBuilder.Entity("ExampleBookStore.Models.Author", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
@@ -35,7 +35,7 @@ namespace NuggetBookStore.Migrations
                     b.ToTable("Authors");
                 });
 
-            modelBuilder.Entity("NuggetBookStore.Models.Book", b =>
+            modelBuilder.Entity("ExampleBookStore.Models.Book", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
@@ -55,7 +55,7 @@ namespace NuggetBookStore.Migrations
                     b.ToTable("Books");
                 });
 
-            modelBuilder.Entity("NuggetBookStore.Models.Review", b =>
+            modelBuilder.Entity("ExampleBookStore.Models.Review", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
@@ -73,16 +73,16 @@ namespace NuggetBookStore.Migrations
                     b.ToTable("Reviews");
                 });
 
-            modelBuilder.Entity("NuggetBookStore.Models.Book", b =>
+            modelBuilder.Entity("ExampleBookStore.Models.Book", b =>
                 {
-                    b.HasOne("NuggetBookStore.Models.Author", "Author")
+                    b.HasOne("ExampleBookStore.Models.Author", "Author")
                         .WithMany("Books")
                         .HasForeignKey("AuthorId");
                 });
 
-            modelBuilder.Entity("NuggetBookStore.Models.Review", b =>
+            modelBuilder.Entity("ExampleBookStore.Models.Review", b =>
                 {
-                    b.HasOne("NuggetBookStore.Models.Book", "Book")
+                    b.HasOne("ExampleBookStore.Models.Book", "Book")
                         .WithMany("Reviews")
                         .HasForeignKey("BookId");
                 });

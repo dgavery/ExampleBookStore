@@ -1,8 +1,8 @@
 
 using Microsoft.EntityFrameworkCore;
-using NuggetBookStore.Models;
+using ExampleBookStore.Models;
 
-namespace NuggetBookStore.Data
+namespace ExampleBookStore.Data
 {
     public class AppDbContext : DbContext
     {

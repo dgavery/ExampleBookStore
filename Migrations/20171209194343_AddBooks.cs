@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 using System.Collections.Generic;
 
-namespace NuggetBookStore.Migrations
+namespace ExampleBookStore.Migrations
 {
     public partial class AddBooks : Migration
     {

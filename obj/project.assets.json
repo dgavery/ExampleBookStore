@@ -12625,11 +12625,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devin\\source\\repo\\NuggetBookStore\\NuggetBookStore.csproj",
-      "projectName": "NuggetBookStore",
-      "projectPath": "C:\\Users\\devin\\source\\repo\\NuggetBookStore\\NuggetBookStore.csproj",
+      "projectUniqueName": "C:\\Users\\devin\\source\\repo\\DGAveryExampleBookStore\\DGAveryExampleBookStore.csproj",
+      "projectName": "DGAveryExampleBookStore",
+      "projectPath": "C:\\Users\\devin\\source\\repo\\DGAveryExampleBookStore\\DGAveryExampleBookStore.csproj",
       "packagesPath": "C:\\Users\\devin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devin\\source\\repo\\NuggetBookStore\\obj\\",
+      "outputPath": "C:\\Users\\devin\\source\\repo\\DGAveryExampleBookStore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

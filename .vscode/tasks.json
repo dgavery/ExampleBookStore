@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/nuggetbookstore.csproj"
+                "${workspaceFolder}/DGAveryExampleBookStore.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

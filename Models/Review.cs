@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using JsonApiDotNetCore.Models;
 using JsonApiDotNetCore.Services;
 
-namespace NuggetBookStore.Models
+namespace ExampleBookStore.Models
 {
     public class Review : Identifiable
     {

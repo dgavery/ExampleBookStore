@@ -2,9 +2,9 @@
 using JsonApiDotNetCore.Controllers;
 using JsonApiDotNetCore.Services;
 using Microsoft.Extensions.Logging;
-using NuggetBookStore.Models;
+using ExampleBookStore.Models;
 
-namespace NuggetBookStore.Controllers
+namespace ExampleBookStore.Controllers
 {
     public class BooksController : JsonApiController<Book>
     {

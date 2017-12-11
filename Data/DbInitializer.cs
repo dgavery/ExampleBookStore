@@ -1,9 +1,9 @@
-using NuggetBookStore.Models;
+using ExampleBookStore.Models;
 using System.Linq;
 using System.Collections.Generic;
 using System;
 
-namespace NuggetBookStore.Data
+namespace ExampleBookStore.Data
 {
 
     public static class DbInitializer

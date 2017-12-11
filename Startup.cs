@@ -10,10 +10,10 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using NuggetBookStore.Data;
-using NuggetBookStore.Models;
+using ExampleBookStore.Data;
+using ExampleBookStore.Models;
 
-namespace NuggetBookStore
+namespace ExampleBookStore
 {
     public class Startup
     {

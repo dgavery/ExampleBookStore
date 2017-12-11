@@ -21,7 +21,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "ExampleBookStore/1.0.0": {
+      "DGAveryExampleBookStore/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.3",
           "Microsoft.EntityFrameworkCore.Design": "2.0.1",
@@ -30,10 +30,10 @@
           "JsonApiDotNetCore": "2.1.10"
         },
         "runtime": {
-          "ExampleBookStore.dll": {}
+          "DGAveryExampleBookStore.dll": {}
         },
         "compile": {
-          "ExampleBookStore.dll": {}
+          "DGAveryExampleBookStore.dll": {}
         }
       },
       "JsonApiDotNetCore/2.1.10": {
@@ -4018,7 +4018,7 @@
     }
   },
   "libraries": {
-    "ExampleBookStore/1.0.0": {
+    "DGAveryExampleBookStore/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
