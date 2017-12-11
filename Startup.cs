@@ -59,7 +59,7 @@ namespace ExampleBookStore
 
             services.AddJsonApi<AppDbContext>(opt =>
             {
-                //opt.Namespace = "api";
+                opt.Namespace = "api";
                 opt.DefaultPageSize = 5;
                 opt.IncludeTotalRecordCount = true;
             });
